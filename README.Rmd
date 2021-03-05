@@ -15,20 +15,24 @@ todays.plan <- df %>%
   filter(
     date == today + 3
   )
+
+upcoming.plan <- df
 ```
 
 
-Today is `r format(today,'%A, %d %B, %Y')`, and we are in week `r todays.plan$plan_week` of the `r todays.plan$plan` plan. 
-Therefore the training category of the day is **`r todays.plan$activity_category`**.
+Today is `r format(today,'%A, %d %B, %Y')`, and we are in week **`r todays.plan$plan_week`** of the **`r todays.plan$plan`** plan. 
+
+The training category of the day is **`r todays.plan$activity_category`**.
 
 ## Activity
 Today's training activity is summarised in the table below.
 ```{r}
-knitr::kable(todays.plan)
+knitr::kable(todays.plan%>% 
+  select(activity, sets, reps))
 ```
 Once complete, remember to update the 'completed' status to TRUE. If skipped, put FALSE. 
 
 But don't skip it!!
-Test
+Second test!
 
 # Upcoming plan
