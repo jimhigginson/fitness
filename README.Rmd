@@ -33,6 +33,5 @@ knitr::kable(todays.plan%>%
 Once complete, remember to update the 'completed' status to TRUE. If skipped, put FALSE. 
 
 But don't skip it!!
-Second test!
 
 # Upcoming plan
