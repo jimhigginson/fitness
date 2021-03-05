@@ -1,10 +1,9 @@
 Training Plan
 ================
-Jim Higginson
-2021-03-05
 
-Today’s date is 2021-03-05
+Today is Friday, 05 March, 2021, and we are in week 1 of the Base plan.
+Therefore the training category of the day is **E**.
 
-# Plan
+## Activity
 
-Today is a *E* day.
+# Upcoming plan
