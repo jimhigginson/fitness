@@ -13,11 +13,11 @@ today <- today()
 
 todays.plan <- df %>% 
   filter(
-    date == today + 3
+    date == today
   )
 
 upcoming.plan <- df %>% 
-  filter(date >= today + 3 & date <= today + 7)
+  filter(date >= today & date <= today + 7)
 ```
 
 
@@ -40,7 +40,18 @@ But don't skip it!!
 # Upcoming plan
 
 ```{r}
-knitr::kable(upcoming.plan)
+knitr::kable(
+  upcoming.plan %>% 
+    select(
+      day,
+      activity,
+      intensity,
+      sets,
+      reps,
+      date
+    )
+)
+             
 ```
 
 
