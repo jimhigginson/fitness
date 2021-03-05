@@ -1,0 +1,27 @@
+---
+title: "Training Plan"
+author: "Jim Higginson"
+date: "`r Sys.Date()`"
+output: rmarkdown::github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(lubridate)
+df <- read_csv('training_plan.csv')
+
+current.date <- today()
+
+todays.plan <- df %>% 
+  filter(
+    date == today() + 3
+  )
+```
+
+
+Today's date is `r current.date`
+
+# Plan
+
+Today is a *`r todays.plan$activity_category`* day.

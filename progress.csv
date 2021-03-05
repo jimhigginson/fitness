@@ -1,2 +1,6 @@
-date	parameter	measure
-	weight	
+date,parameter,measure
+2021-03-05,neck,43
+2021-03-05,chest,114
+2021-03-05,waist,112
+2021-03-05,weight,110
+2021-03-05,biceps,38
