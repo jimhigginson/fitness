@@ -30,3 +30,8 @@ But don’t skip it\!\!
 | Thursday  | bodyweight squats | bw        |    2 |   10 | 2021-03-11 |
 | Friday    | rest              | NA        |    1 |    1 | 2021-03-12 |
 | Saturday  | lss run           | NA        |    1 |   30 | 2021-03-13 |
+
+# Progress
+
+In this section include timeseries graphs for weight, biometrics and
+personal bests
