@@ -1,7 +1,7 @@
 Training Plan
 ================
 
-Today is Friday, 05 March, 2021, and we are in week \*\*\*\* of the
+Today is Saturday, 06 March, 2021, and we are in week \*\*\*\* of the
 \*\*\*\* plan.
 
 The training category of the day is \*\*\*\*.
@@ -29,3 +29,4 @@ But don’t skip it\!\!
 | Thursday  | pushups           | bw        |    2 |   10 | 2021-03-11 |
 | Thursday  | bodyweight squats | bw        |    2 |   10 | 2021-03-11 |
 | Friday    | rest              | NA        |    1 |    1 | 2021-03-12 |
+| Saturday  | lss run           | NA        |    1 |   30 | 2021-03-13 |
