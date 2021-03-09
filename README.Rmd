@@ -17,7 +17,7 @@ todays.plan <- df %>%
   )
 
 upcoming.plan <- df %>% 
-  filter(date >= today & date <= today + 7)
+  filter(date > today & date <= today + 7)
 ```
 
 

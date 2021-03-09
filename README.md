@@ -24,8 +24,6 @@ But don’t skip it\!\!
 
 | day       | activity          | intensity | sets | reps | date       |
 | :-------- | :---------------- | :-------- | ---: | ---: | :--------- |
-| Tuesday   | pushups           | bw        |    3 |   10 | 2021-03-09 |
-| Tuesday   | bodyweight squats | bw        |    3 |   10 | 2021-03-09 |
 | Wednesday | lss run           | NA        |    1 |   30 | 2021-03-10 |
 | Thursday  | pushups           | bw        |    2 |   10 | 2021-03-11 |
 | Thursday  | bodyweight squats | bw        |    2 |   10 | 2021-03-11 |
