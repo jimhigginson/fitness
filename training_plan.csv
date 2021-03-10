@@ -2,7 +2,7 @@ date,day,plan,plan_week,activity_category,activity,intensity,sets,reps,completed
 2021-03-08,Monday,Base,1,E,commute lss run,,1,100,TRUE
 2021-03-09,Tuesday,Base,1,SE,pushups,bw,3,10,TRUE
 2021-03-09,Tuesday,Base,1,SE,bodyweight squats,bw,3,10,TRUE
-2021-03-10,Wednesday,Base,1,E,lss run,,1,30,
+2021-03-10,Wednesday,Base,1,E,lss run,,1,30,TRUE
 2021-03-11,Thursday,Base,1,SE,pushups,bw,2,10,
 2021-03-11,Thursday,Base,1,SE,bodyweight squats,bw,2,10,
 2021-03-12,Friday,Base,1,Recovery,rest,,1,1,

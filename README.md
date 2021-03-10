@@ -1,19 +1,18 @@
 Training Plan
 ================
 
-Today is Tuesday, 09 March, 2021, and we are in week **1, 1** of the
-**Base, Base** plan.
+Today is Wednesday, 10 March, 2021, and we are in week **1** of the
+**Base** plan.
 
-The training category of the day is **SE, SE**.
+The training category of the day is **E**.
 
 ## Activity
 
 Today’s training activity is summarised in the table below.
 
-| activity          | sets | reps |
-| :---------------- | ---: | ---: |
-| pushups           |    3 |   10 |
-| bodyweight squats |    3 |   10 |
+| activity | sets | reps |
+| :------- | ---: | ---: |
+| lss run  |    1 |   30 |
 
 Once complete, remember to update the ‘completed’ status to TRUE. If
 skipped, put FALSE.
@@ -24,7 +23,6 @@ But don’t skip it\!\!
 
 | day       | activity          | intensity | sets | reps | date       |
 | :-------- | :---------------- | :-------- | ---: | ---: | :--------- |
-| Wednesday | lss run           | NA        |    1 |   30 | 2021-03-10 |
 | Thursday  | pushups           | bw        |    2 |   10 | 2021-03-11 |
 | Thursday  | bodyweight squats | bw        |    2 |   10 | 2021-03-11 |
 | Friday    | rest              | NA        |    1 |    1 | 2021-03-12 |
@@ -33,6 +31,7 @@ But don’t skip it\!\!
 | Monday    | pushups           | bw        |    3 |   15 | 2021-03-15 |
 | Monday    | bodyweight squats | bw        |    3 |   15 | 2021-03-15 |
 | Tuesday   | commute lss run   | NA        |    1 |  120 | 2021-03-16 |
+| Wednesday | lss run           | NA        |    1 |   40 | 2021-03-17 |
 
 # Progress
 
