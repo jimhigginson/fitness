@@ -20,7 +20,6 @@ skipped, put FALSE.
 
 But don’t skip it\!\!
 
-Test
 
 # Upcoming plan
 
